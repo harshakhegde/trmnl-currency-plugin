@@ -1,7 +1,9 @@
 # TRMNL Currency Plugin
 
 Shows USD→INR and EUR→INR exchange rates on a TRMNL device, as a Private Plugin
-polling a JSON feed.
+polling a JSON feed. Templates target **TRMNL X** (portrait, 4-bit grayscale)
+using the framework's `lg:`/`portrait:` responsive prefixes and larger v3
+typography tiers, while remaining backward-compatible with OG.
 
 - `generate_rates.py` fetches rates from the [Frankfurter API](https://frankfurter.dev/) (ECB data, no key required) and writes `current.json`.
 - `.github/workflows/update-rates.yml` runs the script daily and commits the result.
