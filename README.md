@@ -1,6 +1,6 @@
 # TRMNL Currency Plugin
 
-Shows USD→INR and EUR→INR exchange rates on a TRMNL device, as a Private Plugin
+Shows USD→₹ and EUR→₹ exchange rates on a TRMNL device, as a Private Plugin
 polling a JSON feed. Templates target **TRMNL X** (portrait, 4-bit grayscale)
 using the framework's `lg:`/`portrait:` responsive prefixes and larger v3
 typography tiers, while remaining backward-compatible with OG.
