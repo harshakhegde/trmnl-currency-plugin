@@ -1,9 +1,9 @@
 {
-  "usd_inr": 92.45,
-  "eur_inr": 101.46,
+  "usd_inr": 93.0,
+  "eur_inr": 101.9,
   "usd_inr_prev": 92.45,
   "eur_inr_prev": 101.46,
-  "rate_date": "2026-11-26",
-  "updated_at": "2026-11-27T11:59:40",
+  "rate_date": "2026-11-27",
+  "updated_at": "2026-11-27T23:17:00",
   "today": "2026-11-27"
 }
